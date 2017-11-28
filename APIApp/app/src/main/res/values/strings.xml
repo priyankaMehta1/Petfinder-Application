@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">APIApp</string>
+    <string name="title">Welcome to PetFinder!</string>
+    <string name="entry">Enter a type of pet</string>
+    <string name="button">"Find Top 10 Breeds of the animal I enter</string>
+    <string name="error">The pet you entered does not exist. Try entering something like: cat, dog, horse, bird, or smallfurry</string>
+</resources>
